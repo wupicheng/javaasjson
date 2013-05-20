@@ -64,7 +64,7 @@ public class SaveDao {
 
     }
 
-    public  Map parserToMap(String s){
+    public  static Map parserToMap(String s){
         Map map=new HashMap();
         JSONObject json=JSONObject.fromObject(s);
         Iterator keys=json.keys();
@@ -80,4 +80,5 @@ public class SaveDao {
         }
         return map;
     }
+
 }

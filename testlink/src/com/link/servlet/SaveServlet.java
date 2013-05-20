@@ -3,7 +3,6 @@ package com.link.servlet;
 import com.link.dao.SaveDao;
 import net.sf.json.JSONObject;
 import net.sf.json.JSONSerializer;
-
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -33,6 +32,7 @@ public class SaveServlet extends HttpServlet {
          String username=  req.getParameter("user_name");
        // String[] a = req.getParameterValues("user_name");
 
+        String ss="";
         Enumeration pn = req.getParameterNames();
 
         while (pn.hasMoreElements()) {
