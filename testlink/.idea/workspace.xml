@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="797d1ed8-e28f-424d-b25e-12dbbe0e1139" name="Default" comment="11">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/gson-2.2.4-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/gson-2.2.4-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/gson-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javassist.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.4-jdk15-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/json2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/link/json/tesgson.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/test/test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test1.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/link/servlet/testServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/link/json/testj2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/serialio/testserial.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/link/dao/SaveDao.java" afterPath="$PROJECT_DIR$/src/com/link/dao/SaveDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/link/servlet/SaveServlet.java" afterPath="$PROJECT_DIR$/src/com/link/servlet/SaveServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/link/json/testjson.java" afterPath="$PROJECT_DIR$/src/com/link/json/testjson.java" />
+    <list default="true" id="797d1ed8-e28f-424d-b25e-12dbbe0e1139" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testlink.iws" />
@@ -36,7 +21,7 @@
     <file path="$PROJECT_DIR$/../../../SXCMS/src/com/sino/cms/contract/orderbook/action/OrderBookDraftAction.java" changelist="797d1ed8-e28f-424d-b25e-12dbbe0e1139" time="1369029543164" ignored="false" />
     <file path="$PROJECT_DIR$/../../../SXCMS/src/com/sino/cms/contract/orderbook/form/orderbookForm.java" changelist="797d1ed8-e28f-424d-b25e-12dbbe0e1139" time="1368435198100" ignored="false" />
     <file path="/OrderBookDraftAction.java" changelist="797d1ed8-e28f-424d-b25e-12dbbe0e1139" time="1368414480810" ignored="false" />
-    <file path="/Dummy.txt" changelist="797d1ed8-e28f-424d-b25e-12dbbe0e1139" time="1369046114964" ignored="false" />
+    <file path="/Dummy.txt" changelist="797d1ed8-e28f-424d-b25e-12dbbe0e1139" time="1369048997946" ignored="false" />
     <file path="/a.dummy" changelist="797d1ed8-e28f-424d-b25e-12dbbe0e1139" time="1369030624257" ignored="false" />
     <file path="$PROJECT_DIR$/../../../SXCMS/src/com/sino/ams/bean/AMSLookUpModel.java" changelist="797d1ed8-e28f-424d-b25e-12dbbe0e1139" time="1368426625507" ignored="false" />
     <file path="$PROJECT_DIR$/../../../SXCMS/web/contract/orderbook/approvalBudgetReporting/approvalBudgetReporting.jsp" changelist="797d1ed8-e28f-424d-b25e-12dbbe0e1139" time="1368432542377" ignored="false" />
@@ -151,7 +136,7 @@
       <file leaf-file-name="tesgson.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/link/json/tesgson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="68" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.32920793">
+            <state line="42" column="68" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.32125604">
               <folding />
             </state>
           </provider>
@@ -978,12 +963,16 @@
       <created>1368417742541</created>
       <updated>1368417742541</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="11">
+      <created>1369049007975</created>
+      <updated>1369049007975</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3812601" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -991,8 +980,8 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26817447" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22123177" sideWeight="0.31340873" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25201938" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22123177" sideWeight="0.31987077" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1006,7 +995,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.62681746" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22123177" sideWeight="0.40710825" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22123177" sideWeight="0.4168013" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3861066" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1175,7 +1164,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/link/json/tesgson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="68" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.32920793">
+        <state line="42" column="68" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.32125604">
           <folding />
         </state>
       </provider>
